@@ -60,4 +60,4 @@ if __name__ == '__main__':
 
     save_matches(final)
 
-    #email_results(matches, participant_members)
+    email_results(matches, participant_members)
