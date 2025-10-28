@@ -7,12 +7,17 @@ This is not good code. I mostly just wanted to play around with python because i
 
 ## Usage
 In inputs/participants, enter in a list all the participants, csv style.
+
 name,email
 
 In illegal_pairs, enter in csv style the names that you don't want paired together (e.g. themselves or their spouses, as assumedly spouses will be giving each other gifts anyway).
+
 name1,name1
+
 name2,name2
+
 name1,name2
+
 
 In emailer, replace the cringely hardcoded user account/pw information (where it says INSERT...HERE).
 
